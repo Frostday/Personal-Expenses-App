@@ -9,5 +9,6 @@ git clone https://github.com/Frostday/Personal-Expenses-App.git
 ```
 
 ### Preview
-
+|:--------------------------|:--------------------------|:--------------------------|
 | ![](assets/images/1.jpeg) | ![](assets/images/2.jpeg) | ![](assets/images/3.jpeg) |
+|:--------------------------|:--------------------------|:--------------------------|
