@@ -4,9 +4,9 @@ An app to keep track of its user's personal expenses
 
 ## Installation and Setup
 
-* Fork the repo and clone it.
+*clone the repo using command
 ```
-git clone https://github.com/Raghav1503/Kaggle-Data-Science-Bowl-2018.git
+git clone https://github.com/Frostday/Personal-Expenses-App.git
 ```
 
 ## Preview
